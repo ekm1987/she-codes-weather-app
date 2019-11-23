@@ -4,9 +4,11 @@ import Profile from '../atoms/Profile';
 
 const WeatherPerson = () => {
   return (
+    <div className = "weather-person-container">
     <div>
       <Avatar />
       <Profile />
+    </div>
     </div>
   );
 };

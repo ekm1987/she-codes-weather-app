@@ -1,4 +1,12 @@
+  
 .Button {
-    padding: 20px;
-    background-color: #ED61AB;
-  }
+  padding: 5px 20px;
+  display: block;
+  background-color: #eb64aa;
+  font-family: adobe-clean, sans-serif;
+  color: white;
+  font-size: 14px;
+  border-radius: 5px;
+  border: none;
+
+}
